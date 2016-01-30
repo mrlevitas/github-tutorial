@@ -33,15 +33,25 @@
 1. Which Nanodegree have you taken?
 
   iOS
+  Android
+  
+  VS: iOS, Android
 
 2. Which Octocat is your favorite?
 
   Baracktocat
+  
+  VS: Private Investocat
 
 3. What text editor do you use?
 
   Sublime and Xcode
+  Android Studio and Sublime. Back in the day, Vim and Eclipse.
+  
+  VS: TextWrangler
 
 4. What questions do you want to ask?
 
   Nothing
+
+VS: What is your main motivation for learning?
